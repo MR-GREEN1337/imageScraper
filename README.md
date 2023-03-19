@@ -7,4 +7,6 @@ You need to install the following packages:
     pip install icrawler
     pip install requests
     pip install os
+    
+ 
 ps:this is purely for academic reasons
